@@ -1,3 +1,3 @@
 # NOTAS
 
-Este repositorio cuentas con algunos customHoks, los cueales me pueden ayudar en algun futuro
+Este repositorio cuentas con algunos customHoks, los cuales me pueden ayudar en algun futuro
